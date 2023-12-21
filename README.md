@@ -6,9 +6,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=affanashraf120&label=Profile%20views&color=0e75b6&style=flat" alt="affanashraf120" /> </p>
 
-- 👨‍💻 All of my projects are available at  https://github.com/mtalhaashraf?tab=repositories
+- 💬 Ask me about 
+**Frontend: React.js Next.js Typescript Tailwind css Svelte Sveltekit 
+Database: Firebase PostgressSQL Graphql Prisma supabase 
+Backend: Node.js Expressjs REST API GraphQL Socket.io Mongodb API Integration**
 
-- 💬 Ask me about **Frontend: React.js Next.js Typescript Tailwind css Svelte Sveltekit Database: Firebase PostgressSQL Graphql Prisma supabase Backend: Node.js Expressjs REST API GraphQL Socket.io Mongodb API Integration**
+- 👨‍💻 All of my projects are available at  https://github.com/mtalhaashraf?tab=repositories
 
 - 📫 How to reach me **affanashraf120@gmail.com**
 
