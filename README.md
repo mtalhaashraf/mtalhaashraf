@@ -1,4 +1,4 @@
-
+![logo](https://github.com/mtalhaashraf/mtalhaashraf/blob/main/Github%20banner%20talha.png) 
 <h1 align="center">Hi 👋, I'm M Talha Ashraf</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan<</h3>
 
