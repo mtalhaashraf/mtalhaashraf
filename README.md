@@ -1,6 +1,6 @@
-![logo](https://github.com/mtalhaashraf/mtalhaashraf/blob/main/Github%20banner%20talha.png) 
-<h1 align="center">Hi 👋, I'm M Talha Ashraf</h1>
-<h3 align="center">A passionate Software Engineer from Pakistan<</h3>
+![logo](https://github.com/mtalhaashraf/mtalhaashraf/blob/main/github%20talha%20banner%20.png) 
+<h1 align="center">Hi 👋, I'm Full Stack Developer</h1>
+<h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
 <img align="right" alt="coding" width="250" src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.webp?cid=ecf05e47swqwyq07ptpmts8t6kccp5pig64u7ya9d5rnyz93&ep=v1_gifs_search&rid=200w.webp&ct=g">
 
