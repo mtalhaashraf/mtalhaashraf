@@ -1,6 +1,6 @@
 ![logo](https://github.com/mtalhaashraf/mtalhaashraf/blob/main/talha%20github%20banner.png) 
 <h2 align="center">Hi 👋, Hello! How's it going?</h1>
-<h4 align="left">A passionate Software Engineer</h3>
+<h4 align="left">A passionate AI Software Engineer</h3>
 
 <img align="right" alt="coding" width="250" >
 
